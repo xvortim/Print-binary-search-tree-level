@@ -1,3 +1,5 @@
+/* Code inspired by my Data Stuctures professor: Goran Lazovic */
+
 #ifndef BST_H
 #define BST_H
 
